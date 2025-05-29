@@ -1,0 +1,22 @@
+/* Basic styles for AgriSphere web app */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+#app {
+    padding: 20px;
+}
+
+h3 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+/* Add more styles as needed */
