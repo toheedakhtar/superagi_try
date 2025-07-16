@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+venv/
+instance/
+superagi/vector_db/chroma/chroma_db/
+logs/
